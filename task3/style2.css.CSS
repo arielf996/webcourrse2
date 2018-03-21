@@ -1,0 +1,46 @@
+body {
+    background-image: url("images/linear-gradient-white-azure-5120x2880-c2-065bb5-f0fff0-a-210-f-14.svg");
+    background-size: cover;
+}
+#wrapper {
+width:900px;
+height:700px;
+padding:100;
+ margin:auto;
+    text-align: right;
+    direction: rtl;
+   }
+.main_menu {
+    width: 800px;
+    height: 40px;
+    opacity: .8;
+    text-align: center;
+    line-height: 32px;
+    background-color: gainsboro;
+    margin-right: 20px;
+}
+ul.main_menu{
+    margin-top:15px;
+   
+}
+.main_menu li {
+    display: inline;
+    padding: 0 10px 0 10px;
+    font-size: 20px;
+    
+}
+.main_menu a{
+text-decoration:none;
+color:#000;
+padding: 8px;
+font-variant: small-caps;
+}
+.main_menu a:hover{
+    background-color:blue;
+
+}
+    .main_menu a:active {
+        background-color:deepskyblue;
+  }
+    p{text-align:right;
+    }
